@@ -1,6 +1,6 @@
 # Overview
 
-This is a simple commandline utility app to create test bags for APTrust using
+This is a simple script utility app to create test bags for APTrust using
  the BagIt Specifications.
 
 It will bag Fedora Datastream files or DSpace AIPs as nessisary.
